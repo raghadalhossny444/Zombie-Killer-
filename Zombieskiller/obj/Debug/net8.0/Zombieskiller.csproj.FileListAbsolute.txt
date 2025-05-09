@@ -1,0 +1,14 @@
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.AssemblyInfoInputs.cache
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.AssemblyInfo.cs
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\bin\Debug\net8.0\Zombieskiller.exe
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\bin\Debug\net8.0\Zombieskiller.deps.json
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\bin\Debug\net8.0\Zombieskiller.runtimeconfig.json
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\bin\Debug\net8.0\Zombieskiller.dll
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\bin\Debug\net8.0\Zombieskiller.pdb
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.dll
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\refint\Zombieskiller.dll
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.pdb
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\Zombieskiller.genruntimeconfig.cache
+C:\Users\USER\OneDrive\Desktop\Zombieskiller\obj\Debug\net8.0\ref\Zombieskiller.dll
